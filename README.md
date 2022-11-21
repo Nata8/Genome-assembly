@@ -1,0 +1,4 @@
+# Genome-assembly
+
+
+1. QUALITATIVE EVALUATION OF SEQUENCE DATA
